@@ -1,6 +1,6 @@
 **Aleksey Evsikov**
 Russia, Saratov.
-+79279127830 *(telegramm,whatsapp,viber)*; discord - AlexE1987#4801; evsikovad1987@gmail.com
++79279127830 *(telegramm,whatsapp,viber)*; AlexE1987#4801 - *discord*; evsikovad1987@gmail.com
 
 **Plan**: mastering the profession of a front-end web developer. **Stack  - html, css, vuejs.** Starting from 10/2020, I have been independently studying these technologies.
 
